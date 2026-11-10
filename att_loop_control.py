@@ -15,7 +15,7 @@ import sys
 import time
 
 # global default host IP address of J7211C
-host_ip = "10.1.1.137"
+host_ip = "192.168.1.100"
 #port = 5025  # default SCPI port for J7211C
 #timeout = 5  # seconds
 
